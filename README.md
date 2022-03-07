@@ -24,6 +24,10 @@ Here are the Confusion Matrix plots of each model
 
 Here are the predicted error bar plots for each model
 
+## Paper
+
+Conference style paper is provided in this repo: songClassificationPyspark.pdf
+
 ## Future Work
 
 It is desired to migrate this notebook to GCP(Google Cloud Platform)'s Dataproc to scale up the work, and reduce time and computing power for larger dataset in the future.
