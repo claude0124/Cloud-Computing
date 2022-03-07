@@ -26,7 +26,7 @@ Here are the predicted error bar plots for each model
 
 ## Paper
 
-Conference style paper is provided in this repo: songClassificationPyspark.pdf
+Conference style paper is provided in this repo: DSCI632_SongClassificationPySpark.pdf
 
 ## Future Work
 
